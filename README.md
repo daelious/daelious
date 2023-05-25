@@ -5,3 +5,7 @@
 - 📫 How to reach me ...
   - :office: [LinkedIn](https://www.linkedin.com/in/keith-meyer-66716522/)
   - :bird: [Twitter](https://twitter.com/daelious)
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=daelious)](https://github.com/ryo-ma/github-profile-trophy)
