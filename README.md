@@ -6,4 +6,4 @@
   - [Webpage](https://daelious.com) - It's not updated often ... it may not even work right now.
   - :office: [LinkedIn](https://linkedin.com/in/keith-meyer-software/)
   - :elephant: [Mastodon](https://infosec.exchange/@daelious)
-
+  - :lock: GPG Encryption is always preferred. [My Public Key](gpg.txt)
