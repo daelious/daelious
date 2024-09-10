@@ -58,7 +58,7 @@
     <img src="https://img.shields.io/badge/fastly-D24939?style=for-the-badge&logo=fastly&logoColor=white" alt="Fastly"/>
 </div>
 
-<h2 align="center" class="section-heading">🔧 Frameworks</h2>
+<h2 align="center" class="section-heading">⚙️ Frameworks</h2>
 <p></p>
 <div align="center">
     <img src="https://img.shields.io/badge/Gin-20232A?style=for-the-badge&logo=gin&logoColor=61DAFB" alt="Gin"/>
