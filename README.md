@@ -17,13 +17,13 @@
         <img src="https://img.shields.io/badge/Keith%20Meyer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://infosec.exchange/@daelious">
-        <img src="https://img.shields.io/badge/Follow%20on%20Mastodon-%230077B5.svg?&style=for-the-badge&logo=mastodon&logoColor=white" alt="GitHub Skyline"/>
+        <img src="https://img.shields.io/badge/Follow%20on%20Mastodon-%230077B5.svg?&style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"/>
     </a>
     <a href="https://github.com/daelious/" target="_blank">
-        <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-        <a href="https://gitlab.com/daelious/" target="_blank">
-        <img src="https://img.shields.io/badge/View%20on%20GitLab-%230077B5.svg?&style=for-the-badge&logo=gitlab&logoColor=white" alt="GitHub Skyline"/>
+    <a href="https://gitlab.com/daelious/" target="_blank">
+        <img src="https://img.shields.io/badge/View%20on%20GitLab-%230077B5.svg?&style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
     </a>
 </div>
 
