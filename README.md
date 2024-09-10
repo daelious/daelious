@@ -25,6 +25,9 @@
     <a href="https://gitlab.com/daelious/" target="_blank">
         <img src="https://img.shields.io/badge/View%20on%20GitLab-%230077B5.svg?&style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
     </a>
+    <a href="" target="_blank">
+        <img src="https://img.shields.io/badge/Book%20A%20Chat-%230077B5.svg?&style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly"/>
+    </a>
 </div>
 
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
