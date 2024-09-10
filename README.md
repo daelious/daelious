@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @daelious (pronounced "Daily-Us"). The name came from a character I made during a tabletop role playing game as a kid. I liked the character and how the name sounded so I've virtually always used it as my handle.
-
-- 🌱 ... 
-
-- 📫 How to reach me ...
-  - [Webpage](https://daelious.com) - It's not updated often ... it may not even work right now.
-  - :office: [LinkedIn](https://linkedin.com/in/keith-meyer-software/)
-  - :elephant: [Mastodon](https://infosec.exchange/@daelious)
-  - :lock: GPG Encryption is always preferred. [My Public Key](gpg.txt)
+<div align="center">
+<h2><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Keith;This+is..;..my+Github..;" alt="Typing SVG"/></h2>
+</div>
