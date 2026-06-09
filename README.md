@@ -20,14 +20,8 @@ Building robust project stages focused on enforcing strict Git branch naming con
     <a href="https://www.linkedin.com/in/keith-meyer-software">
         <img src="https://img.shields.io/badge/Keith%20Meyer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://infosec.exchange/@daelious">
-        <img src="https://img.shields.io/badge/Follow%20on%20Mastodon-%230077B5.svg?&style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"/>
-    </a>
     <a href="https://github.com/daelious/" target="_blank">
         <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="https://gitlab.com/daelious/" target="_blank">
-        <img src="https://img.shields.io/badge/View%20on%20GitLab-%230077B5.svg?&style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
     </a>
     <a href="" target="_blank">
         <img src="https://img.shields.io/badge/Book%20A%20Chat-%230077B5.svg?&style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly"/>
@@ -37,14 +31,10 @@ Building robust project stages focused on enforcing strict Git branch naming con
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
 <p> </p>
 <div align="center">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-    <img src="https://img.shields.io/badge/YAML-0A0A0A?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML"/>
 </div>
 
 <h2 align="center" class="section-heading">☁️ Cloud & DevOps Infrastructure</h2>
@@ -67,18 +57,9 @@ Building robust project stages focused on enforcing strict Git branch naming con
 <div align="center">
     <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Gin"/>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/> 
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/> 
-</div>
-
-<h2 align="center" class="section-heading">🔧 Workflow Tools</h2>
-<p></p>
-<div align="center">
-    <img src="https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="NeoVim"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
 </div>
 
 <div align="center">
